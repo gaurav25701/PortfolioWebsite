@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Book Store Website",
+        "description": "The online book store is a specialized e-commerce platform designed to provide book enthusiasts with a rich and engaging shopping experience. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), the website offers a user-friendly interface for browsing, purchasing, and reviewing books.",
+        "githubLink": "https://github.com/gaurav25701/BookStore",
+        "image": "/images/BookStore.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Ecommerce Website",
+        "description": "The e-commerce website is a comprehensive online shopping platform designed to provide a seamless and user-friendly experience for both customers and administrators. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), the website offers a responsive and dynamic interface across various devices.",
+        "githubLink": "https://github.com/gaurav25701/Dukaan",
+        "image": "/images/Ecommerce.jpg"
+    }
+]
